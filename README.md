@@ -3,6 +3,7 @@ A simple guide to SEO fundamentals for web developers
 SEO Fundamentals
 Wednesday, May 25, 2022
 11:16 AM
+>>This is merely a draft, the edited version is coming soon!<<
 What search engines value:
 1.	Relevance - thematic and semantic relevance
 2.	Authoritative - search engines verify the authority by seeing what other websites say about your content, via links, references, reviews, etc. 
