@@ -1,6 +1,7 @@
 # SEO-Fundamentals
 A simple guide to SEO fundamentals for web developers
-SEO Fundamentals
+
+#SEO Fundamentals
 
 Wednesday, May 25, 2022
 11:16 AM
